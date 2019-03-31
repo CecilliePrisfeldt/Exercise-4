@@ -1,0 +1,90 @@
+nav {
+    background-color: black;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    padding-right: 14px;
+}
+
+nav ul {
+    padding 14px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    
+}
+
+h1 {font-family: sans-serif; 
+text-align: center;
+}
+
+
+.flexcontainer {
+    display:flex;
+    flex-wrap: wrap;
+    background-color:white;
+    justify-content: center;
+    margin: 5px;
+    
+}
+
+.flexcontainer > div {
+    background-color: aliceblue;
+    width: 27%;
+    margin:20px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px; 
+    
+}
+
+.flexcontainer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#Bord-A{ 
+background-color: cadetblue;
+font-family: sans-serif;
+}
+
+#Bord-B{
+background-color: darkgrey;
+font-family: sans-serif;
+}
+
+#Bord-C{
+    background-color: darkolivegreen;
+    font-family: sans-serif;
+}
+
+#Bord-D{ 
+background-color:deeppink;
+font-family: sans-serif;
+}
+
+
+#Bord-E{
+    background-color: coral;
+    font-family: sans-serif;
+}
+
+#Bord-F{
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none; 
+
+}
+
+.tablemaster {
+    text-decoration: underline;
+}
